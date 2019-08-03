@@ -1,3 +1,4 @@
 # Robo-Friends
-#npm install then
-npm start
+# npm install 
+then
+# npm start
